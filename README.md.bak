@@ -9,12 +9,16 @@
 
 ## Feature
 
-* Login / Registration 
-* Event Organizer - Posting events, Delete event postings, View participants
-* Event Attendees - Event bookings, View booked events
-* Admin - Approve or Reject Event request from organizer
-* Notification
-
+* Login / Registration / Forgot Password
+* Profile
+* Product catalogue
+* Cart Management
+* Checkout
+* Payment
+* Order Management
+* Order related notification
+* Wishlist
+* Product Reviews
 
 ## AWS Services
 
