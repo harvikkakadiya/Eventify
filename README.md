@@ -6,6 +6,7 @@
 
 * [Flutter](https://flutter.dev/)
 * [AWS](https://aws.amazon.com/)
+* [Python](https://www.python.org/)
 
 ## Feature
 
@@ -28,6 +29,7 @@
 * CloudFormation
 
 ## AWS Archietecture
+![WhatsApp Image 2022-05-07 at 3 42 33 AM](https://user-images.githubusercontent.com/39332393/167243151-1b2c9002-eebe-43e2-8b23-e287eb29a233.jpeg)
 
 
 
