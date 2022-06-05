@@ -19,7 +19,7 @@
 
 ## AWS Services
 
-* Elastic Beanstalk -  Docket platform
+* Elastic Beanstalk -  Docker platform
 * DynamoDB
 * S3 
 * VPC
